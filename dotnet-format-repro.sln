@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnet-format-repro", "dotnet-format-repro.csproj", "{45D130EC-DA8C-4816-9E69-3540C0C99115}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45D130EC-DA8C-4816-9E69-3540C0C99115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D130EC-DA8C-4816-9E69-3540C0C99115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D130EC-DA8C-4816-9E69-3540C0C99115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45D130EC-DA8C-4816-9E69-3540C0C99115}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76F27147-EDBE-4869-BFF7-2EF7D3ABA275}
+	EndGlobalSection
+EndGlobal
